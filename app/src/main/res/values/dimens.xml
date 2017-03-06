@@ -3,4 +3,11 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="dp_20">20dp</dimen>
+    <dimen name="dp_120">120dp</dimen>
+    <dimen name="dp_60">60dp</dimen>
+    <dimen name="dp_220">220dp</dimen>
+    <dimen name="dp_140">140dp</dimen>
+    <dimen name="dp_3">3dp</dimen>
+    <dimen name="dp_300">300dp</dimen>
+    <dimen name="dp_10">10dp</dimen>
 </resources>
