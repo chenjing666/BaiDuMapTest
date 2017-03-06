@@ -2,11 +2,11 @@
     <string name="app_name">BaiDuMapTest</string>
     <string name="satellite">卫星</string>
     <string name="compass">指南</string>
-    <string name="welcome_introduction">2</string>
-    <string name="welcome_to_gitdroid">1</string>
+    <string name="welcome_introduction">welcome_introduction</string>
     <string name="arsenal">arsenal</string>
     <string name="arsenal_introduction">arsenal_introduction</string>
     <string name="tips_and_tricks">tips_and_tricks</string>
     <string name="tips_introduction">tips_introduction</string>
     <string name="enter">进入地图</string>
+    <string name="welcome_to_baidumap">welcome_to_baidumap</string>
 </resources>
