@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BaiDuMapTest</string>
+    <string name="satellite">卫星</string>
+    <string name="compass">指南</string>
+</resources>
