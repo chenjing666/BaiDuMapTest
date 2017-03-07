@@ -11,7 +11,8 @@
         android:name="com.example.hasee.baidumaptest.splash.pager.SplashPagerFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_above="@+id/buttonBar" />
+        android:layout_above="@+id/buttonBar"
+        tools:layout="@layout/fragment_splash_pager" />
 
     <Button
         android:id="@+id/buttonBar"
